@@ -5,7 +5,7 @@ you need node_modules in same path to see result.
 
 1)go to terminal: <br>
 2)cd foldersfilepath  <br>
-3)command:(npm install nodemon)  <br><br>
+3)command:(npm install)  <br><br>
 ![](images/1.png)
 <br><br>
 
